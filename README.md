@@ -10,16 +10,15 @@ USB hub, has 2x usbc, 2x usba, with usbc as host
 | PCB + stencil|all components are on this|1|12|https://jlcpcb.com|jlcpcb |  
 | ALL components|all components that are on pcb|1|20|https://lcsc.com|lcsc|  
 |  |  |  Total cost|32| | |  
-
-
-
-
   
 </details>
 
+<details>
+  <summary>How to assemble</summary>
 
+Buy a PCBA or solder yourself with hot air station or hotplate, place the assembled pcb into case and use m2 screws to screw it into place.  
 
-
+</details>
 
 # Pictures  
 
